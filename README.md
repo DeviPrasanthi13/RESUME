@@ -1,2 +1,2 @@
 # RESUME
-Creating RESUME using HTML
+A RESUME is created using HTML

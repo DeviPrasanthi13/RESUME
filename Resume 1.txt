@@ -1,0 +1,75 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<b><u><h1 align="center">RESUME</h1></b></u>
+<h2><strong>P.DEVI PRASANTHI</strong></h2>
+<u><b><p>Personal Information:</p></b></u>
+<p>Name:P.Devi Prasanthi</p>
+<p>Date of Birth:May 9,2002</p>
+<p>Father Name:P.Janaki Rama Rao</p>
+<p>Mother Name:P.Durga Bhavani</p>
+<p><u><b>Contact Dertails</b></u><p>
+<p>Phone No:<b>6304539575</b><p>
+<p>Email id:<b>deviprasanthi9522@gmail.com</b></p>
+<p>Languages:English,Telugu</p>
+<p>Address:Door no:2-171,Aragatlapalem,<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Bendamurlanka,<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Allavaram mandal,<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspAmalapuram City,<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDr.B.R.Ambedkar konaseema District.</p>
+<u><b><p>Career Objective</p></b></u>
+<p>To obtain a challenging position that fully utilizes my skills and provides me with suitable opportunities to grow my technical and communication skills which would help me as a fresher to grow while working towards the organizational goals. </p> 
+<u><b><p>Academic Details</p></b></u>
+<table cellpadding="2" cellspacing="2">
+<tr>
+    <th>Qualification</th>
+    <th>School/College Name</th>
+    <th>Percentage/GPA</th>
+    <th>Year</th>
+</tr>
+<tr>
+   <td>BTech</td>
+   <td>Adikavi nannaya University</td>
+   <td>Pursuing</td>
+   <td>2021-2024</td>
+</tr>
+<tr>
+   <td>Diploma</td>
+   <td>Prasiddha College of Engineering and Technology</td>
+   <td>76.95%</td>
+   <td>2018-2021</td>
+</tr>
+<tr>
+   <td>SSC</td>
+   <td>ZPP high school,Odalarevu</td>
+   <td>9.8</td>
+   <td>2013-2018</td>
+</tr>
+</table>
+<p><b><u>Technical Languages:</p></b></u>
+<p>Python, HTML, CSS, JAVA, SQL.</p>
+<p><b><u>Certification:</p></b></u>
+<ul>
+<li >Completed Python Course in Cursa. </li>
+<li>Completed Cryptography and Network Security Course in NPTEL Swayam.</li>
+<li>Completed Cloud Computing Fundamentals in Great Learning.</li>
+<li>Completed Cyber Sercurity in Cursa.</li>
+</ul>
+<p><b><u>Areas of Strength </p></b></u>
+<ul>
+<li>Strong person.</li>
+<li>Decision making.</li>
+<li>Good at Communication skills</li>
+</ul>
+<p><b>Hobbies:</b>Reading Books, Listening music, Playing Games. </p>
+<u><b><p>Achievements</u></b></p>
+<p>I completed an internship in TCR INNOVATION on Backend Web Development and did a project on Library Management System.  </p>
+</body>
+</html>
